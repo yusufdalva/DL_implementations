@@ -6,10 +6,10 @@ The contents are as follows:
     .
     ├── Pytorch_fundamentals
         ├── FashionMNIST_PyTorch.ipynb                      # Multi-class classification example using Fashion-MNIST dataset
-        ├── PyTorch_Basics_Perceptrons_with_Tensors.ipynb   # Basic operatiosn with tensors and conversion with NumPy
+        └── PyTorch_Basics_Perceptrons_with_Tensors.ipynb   # Basic operatiosn with tensors and conversion with NumPy
     ├── Tensorflow_fundamentals
         ├── Basic_ConvNets.ipynb                            # Multi-class classification example with both a MLP and CNN
-        ├── callbacks.ipynb                                 # An example use of Tensorflow callbacks
+        └── callbacks.ipynb                                 # An example use of Tensorflow callbacks
     ├── LICENSE
     └── README.md
     
