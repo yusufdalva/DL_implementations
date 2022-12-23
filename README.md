@@ -1,5 +1,5 @@
 # Deep Learning Examples with PyTorch and Tensorflow
-This repository inlcludes basic neural network examples using two of the most popular frameworks for today (Tensorflow and PyTorch). To help you develop deep learning based models for your projects, we wanted to give you a starting point with this repository. There is also a dedicated discussion forum, where ou can freely ask your questions about the subject.
+This repository inlcludes basic neural network examples using two of the most popular frameworks for today (Tensorflow and PyTorch). To help you develop deep learning based models for your projects, we wanted to give you a starting point with this repository. There is also a dedicated discussion forum, where you can freely ask your questions about the subject.
 
 The contents are as follows:
 
